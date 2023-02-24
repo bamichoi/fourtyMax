@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <RecoilRoot>
     <GlobalStyle />
-    <BrowserRouter>
+    <BrowserRouter basename="/fourtyMax">
       <App />
     </BrowserRouter>
   </RecoilRoot>
