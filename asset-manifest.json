@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fourtyMax/static/css/main.073c9b0a.css",
-    "main.js": "/fourtyMax/static/js/main.a43cf1b5.js",
+    "main.js": "/fourtyMax/static/js/main.ba8a8bc8.js",
     "index.html": "/fourtyMax/index.html",
     "main.073c9b0a.css.map": "/fourtyMax/static/css/main.073c9b0a.css.map",
-    "main.a43cf1b5.js.map": "/fourtyMax/static/js/main.a43cf1b5.js.map"
+    "main.ba8a8bc8.js.map": "/fourtyMax/static/js/main.ba8a8bc8.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a43cf1b5.js"
+    "static/js/main.ba8a8bc8.js"
   ]
 }
